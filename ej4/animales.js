@@ -1,25 +1,8 @@
-let animales =
-[
-    {
-        nombre: "rino",
-        edad: "27",
-        animal:"rinoceronte",  
-    },
-    {
-        nombre: "huesitos",
-        edad: "10",
-        animal:"perro",
-    },
-    {
-        nombre: "rizos",
-        edad: "1",
-        animal:"raton",
-    },
-    {
-        nombre: "medusilla",
-        edad: "2",
-        animal:"medusa"
-    }
-]
+let animales = [
+    { nombre: "Jefrey", edad: 15, tipo: "Zebra" },
+    { nombre: "Patata", edad: 3, tipo: "Capibara" },
+    { nombre: "Laika", edad: 8, tipo: "Perro" },
+    { nombre: "Antonio", edad: 6, tipo: "Barracuda" },
+  ];
 
 module.exports = animales
